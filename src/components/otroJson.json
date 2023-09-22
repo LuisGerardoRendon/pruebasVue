@@ -1,0 +1,74 @@
+"GRUPOS-BASE": {
+  "Vigente": {
+    "BASE-CONTABLE": 25,
+    "BASE-SAT": 25,
+    "DIFERENCIA": [
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      },
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      },
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      }
+    ]
+  },
+  "Cancelacion del mes": {
+    "BASE-CONTABLE": 25,
+    "BASE-SAT": 25,
+    "DIFERENCIA": [
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      },
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      }
+    ]
+  },
+  "Cancelacion del mes anterior": {
+    "BASE-CONTABLE": 11,
+    "BASE-SAT": 11,
+    "DIFERENCIA": [
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      },
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      }
+    ]
+  },
+  "Cancelacion del ejercicio anterior": {
+    "BASE-CONTABLE": 10,
+    "BASE-SAT": 11,
+    "DIFERENCIA": [
+      {
+        "UUID": "558A4122-A587-41E8-BEAD-08D7896693F9",
+        "FECHA": "10-10-2022",
+        "FOLIO": "XXXXXX",
+        "COMENTARIO": "HOLA"
+      }
+    ]
+  }
+}
